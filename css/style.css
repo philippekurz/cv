@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Faculty+Glyphic&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300,800&display=swap');
+
+body {
+    background-image: url(../images/hamster.jpg);
+    color: white;
+    /*font-family: Helvetica, Arial, sans-serif;*/
+    /*font-family: 'Times New Roman', Times, serif;*/
+    /*font-family: 'Courier New', Courier, monospace;*/
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    /* font-style: italic; */
+
+}
+h1 {
+    color: rgb(202, 33, 33);
+    font-size: 48px;
+    font-family: "Faculty Glyphic", sans-serif;
+}
+h2 {
+    color: rgb(243, 103, 103);
+    font-size: 36px;
+    font-family: "Faculty Glyphic", sans-serif;
+}
+a {
+    text-decoration: none;
+}
